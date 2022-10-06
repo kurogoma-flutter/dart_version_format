@@ -1,6 +1,9 @@
 ## dart_version_format
 アプリバージョンを比較するメソッド
 
+https://qiita.com/kurogoma939/items/87628b735b10fbccb34a
+
+
 ### コード
 ```dart
 void main() {
